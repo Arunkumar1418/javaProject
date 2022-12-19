@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: test_pool
+pool: test pool
 
 steps:
 - script: echo Hello, world!
